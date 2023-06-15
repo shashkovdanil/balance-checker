@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Martian Mono', monospace;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
